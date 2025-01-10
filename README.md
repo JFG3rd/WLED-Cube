@@ -26,13 +26,13 @@ Here’s a picture of the fully assembled 3D-printed parts of the LED cube:
 
 ![WLED Cube Assembly v7](Images/LED_Cube_Assembly_Updated.gif)
 
+![Cube without Diffussion Filter](Images/WLED_Cube_No_Diffusion_Square.gif)
+
 ---
 
 <span style="font-size: 18px; font-weight: bold;">Assembly Video</span>
 
 To better understand how the cube is assembled using 3D-printed parts, watch this **explosion video** showing how all the components fit together:
-
-[Click here to watch "LED Cube Assembly v7.mp4"](Images/WLED_Cube_No_Diffusion_Square.gif)
 
 ---
 

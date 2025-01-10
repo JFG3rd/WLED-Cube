@@ -32,8 +32,7 @@ Here’s a picture of the fully assembled 3D-printed parts of the LED cube:
 
 To better understand how the cube is assembled using 3D-printed parts, watch this **explosion video** showing how all the components fit together:
 
-[![LED Cube Assembly v7](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-video-digital-marketing-flat-flat-juicy-fish.png)](https://github.com/JFG3rd/WLED-Cube/blob/main/LED%20Cube%20Assembly%20v7.mp4)  
-[Click here to watch "LED Cube Assembly v7.mp4"](https://github.com/JFG3rd/WLED-Cube/blob/main/LED%20Cube%20Assembly%20v7.mp4)
+[Click here to watch "LED Cube Assembly v7.mp4"](Images/WLED_Cube_No_Diffusion_Square.gif)
 
 ---
 

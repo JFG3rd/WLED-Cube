@@ -24,7 +24,7 @@ I designed a **cube on a stand** with six **16x16 RGB LED matrices**, controlled
 
 Here’s a picture of the fully assembled 3D-printed parts of the LED cube:
 
-![WLED Cube Assembly v7](https://github.com/user-attachments/assets/0097a871-0b94-4d96-b98b-25136bccc801)
+![WLED Cube Assembly v7](Images/LED_Cube_Assembly_Updated.gif)
 
 ---
 
